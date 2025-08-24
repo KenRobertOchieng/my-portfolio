@@ -7,7 +7,7 @@ const Projects = () => {
             id: 1,
             title: "Project One",
             description: "This is a brief description of Project One.",
-            ImageUrl: "public/Screenshot from 2025-08-24 01-20-23.png",
+            ImageUrl: "Screenshot from 2025-08-24 01-20-23.png",
             liveDemo: "https://recipe-app--five.vercel.app/",
             githubLink: "https://github.com/KenRobertOchieng/RECIPE-APP-.git"
         },
@@ -15,7 +15,7 @@ const Projects = () => {
             id: 2,
             title: "Project Two",
             description: "This is a brief description of Project Two.",
-            ImageUrl: "public/Screenshot from 2025-08-24 00-35-30.png",
+            ImageUrl: "Screenshot from 2025-08-24 00-35-30.png",
             liveDemo: "https://the-poverty-line-project-8s5o-pb8m01s8d-ken-roberts-projects.vercel.app/",
             githubLink: "https://github.com/KenRobertOchieng/The-Poverty-Line-Project.git"
         },
@@ -23,7 +23,7 @@ const Projects = () => {
             id: 3,
             title: "Project Three",
             description: "This is a brief description of Project Three.",
-            ImageUrl: "public/Screenshot from 2025-08-24 01-27-58.png",
+            ImageUrl: "Screenshot from 2025-08-24 01-27-58.png",
             liveDemo: "https://expense-tracker-phi.vercel.app/",
             githubLink: "https://github.com/KenRobertOchieng/Expense-Tracker.git"
         },
