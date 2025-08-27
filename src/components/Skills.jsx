@@ -18,7 +18,7 @@ const Skills = () => {
 
             </div>
 
-            <div className='space-y-6 text-gray-500 dark:text-white'>
+            <div className='space-y-6'>
 
                 <SkillsLevel skillName="HTML" percentage="85%" />
                 <SkillsLevel skillName="CSS" percentage="80%" />
