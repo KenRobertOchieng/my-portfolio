@@ -19,7 +19,7 @@ const Hero = () => {
                      <div className='rounded-full border-4 border-gray-800 dark:border-blue-950 overflow-hidden animate-pulse shadow-inner'>
                   <div className='flex justify-center'>
 
-                      <img src="portfolio_photo.png" alt="portfolio_image" className='w-full h-full object-cover rounded-full md:h-[450px] lg:h-full' />
+                      <img src="/my_portfolio_image.png" alt="portfolio_image" className='w-full h-full object-cover rounded-full md:h-[450px] lg:h-full' />
 
                     </div>
 

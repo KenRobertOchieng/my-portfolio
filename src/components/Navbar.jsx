@@ -30,7 +30,7 @@ const Navbar = () => {
 
     <div className='container justify-between flex py-6 w-full'>
 
-        <h1 className='text-zinc-600 dark:text-gray-600 font-bold md:text-4xl text-2xl'>Portfolio</h1>
+        <h1 className='text-zinc-600 dark:text-gray-600 font-bold md:text-4xl text-3xl'>Portfolio</h1>
 
       <div className='items-center flex md:gap-8 sm:gap-2 gap-1'>
 
