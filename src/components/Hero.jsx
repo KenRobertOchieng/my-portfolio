@@ -8,10 +8,11 @@ const Hero = () => {
         <div className='grid grid-cols-1 md:grid-cols-2 gap-20 md:gap-10 items-center'>
            <div className='space-y-5'>
 
-             <p className='text-2xl uppercase dark:text-white'>hello</p>
-             <p className='text-black/80 font-bold md:text-4xl dark:text-gray-600 text-3xl uppercase'>I'm Ken Ochieng</p>
-             <p className='md:text-3xl text-3xl text-gray-700 dark:text-white'>Full Stack Developer from Moringa School</p>
-             <p className='text-black/60 md:text-3xl dark:text-white text-2xl'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam laborum quis ut minima iure quo est! Commodi quisquam ducimus iste obcaecati, ipsum laboriosam. Molestias tempora cumque aliquid natus excepturi nulla.</p>
+             <p className='text-4xl font-bold uppercase dark:text-white'>Hello</p>
+             {/* <p className='text-black/80 font-bold md:text-4xl dark:text-gray-600 text-3xl uppercase'>I'm Ken Ochieng</p>
+             <p className='md:text-3xl text-3xl text-gray-700 dark:text-white'>Full Stack Developer from Moringa School</p> */}
+             <p className='text-black/60 md:text-3xl dark:text-white text-2xl'>I’m Ken Ochieng, a full-stack developer trained at Moringa School. I build web apps with React and Python/Flask, and I care about performance, clean architecture, and great user experience.
+Available for internship/junior roles — let’s work</p>
              <a href="mailto:kenrobertochi@gmail.com" className='text-3xl text-center  px-6 py-3 rounded-[12px] dark:text-white text-black/80 transition-colors duration-300 inline-block border border-blue-800'>Hire me</a>
 
              </div>

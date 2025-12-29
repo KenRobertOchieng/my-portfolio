@@ -18,8 +18,7 @@ const About = () => {
 
             <div className='space-y-6 text-gray-500 dark:text-white'>
 
-                <p className='md:text-3xl text-2xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae ex quos dicta itaque eligendi totam obcaecati. Molestiae suscipit eos nulla maxime? Ea, reiciendis. Earum expedita delectus autem consectetur distinctio reprehenderit.</p>
-                <p className='md:text-3xl text-2xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum unde magnam, fuga, quas in, ipsam quisquam eligendi tempora incidunt suscipit aliquid consequuntur assumenda fugiat. Voluptates ea facere sequi quas iure!</p>
+                <p className='md:text-3xl text-2xl'>Full-stack developer experienced in building and deploying web apps and APIs (React, Python/Flask) with a strong automation mindset. I deploy on Render, debug using logs and structured troubleshooting, and write modular, maintainable code using OOP. I’m excited to grow into AI-driven workflow systems (n8n/Flowise/Make + GPT/Gemini) that generate, publish, and analyze content with minimal manual input.</p>
                 <div className='flex gap-6'>
                     <a href="" className='md:text-2xl text-xl text-center border border-blue-800 shadow-xl px-6 py-3 rounded-[12px] dark:text-gray-600  hover:text-green transition-colors duration-300 inline-block'>Download resume</a>
                     <a href="" className='md:text-2xl text-xl text-center md:px-6 md:py-3 px-3 py-3 rounded-[12px] dark:text-gray-600 inline-block border border-blue-800 shadow-xl transition-colors'>Contact</a>
